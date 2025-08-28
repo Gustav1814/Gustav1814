@@ -26,24 +26,34 @@
 
 ---
 
-# 🔧 Cybersecurity Tools & Platforms:
+## 🛡️ Cybersecurity Tools & Frameworks  
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FB542B?style=for-the-badge&logo=burpsuite&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)  
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)  
-![OpenVAS](https://img.shields.io/badge/OpenVAS-3FB950?style=for-the-badge&logo=openvas&logoColor=white)  
-![Hydra](https://img.shields.io/badge/Hydra-6D6D6D?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)  
-![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-FF4C00?style=for-the-badge&logo=suricata&logoColor=white) 
-![Nessus](https://img.shields.io/badge/Nessus-009639?style=for-the-badge&logo=tenable&logoColor=white)  
-![OpenVAS](https://img.shields.io/badge/OpenVAS-3FB950?style=for-the-badge&logo=openvas&logoColor=white)  
-![Qualys](https://img.shields.io/badge/Qualys-ED2E26?style=for-the-badge&logo=qualys&logoColor=white) 
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)  
-![Maltego](https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white)  
-![YARA](https://img.shields.io/badge/YARA-FF4500?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)  
-![NIST](https://img.shields.io/badge/NIST-00274D?style=for-the-badge&logo=gov&logoColor=white)
+&nbsp; ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=blue)  
+&nbsp; ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
+&nbsp; ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+&nbsp; ![Nmap](https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge&logo=nmap&logoColor=white)  
+&nbsp; ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=yellow)  
+&nbsp; ![OpenVAS](https://img.shields.io/badge/OpenVAS-2F855A?style=for-the-badge&logo=openvas&logoColor=white)  
+&nbsp; ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackthebox&logoColor=green)  
+&nbsp; ![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-333333?style=for-the-badge&logo=linux&logoColor=yellow)  
+&nbsp; ![Suricata](https://img.shields.io/badge/Suricata-DD2C00?style=for-the-badge&logo=suricata&logoColor=white)  
+&nbsp; ![Nessus](https://img.shields.io/badge/Nessus-0C7C84?style=for-the-badge&logo=tenable&logoColor=white)  
+&nbsp; ![Qualys](https://img.shields.io/badge/Qualys-ED2B2A?style=for-the-badge&logo=qualys&logoColor=white)  
+&nbsp; ![VirusTotal](https://img.shields.io/badge/VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white)  
+&nbsp; ![Maltego](https://img.shields.io/badge/Maltego-20232A?style=for-the-badge&logo=maltego&logoColor=blue)  
+&nbsp; ![YARA](https://img.shields.io/badge/YARA-FF5252?style=for-the-badge&logo=yara&logoColor=white)  
+&nbsp; ![NIST](https://img.shields.io/badge/NIST-000000?style=for-the-badge&logo=nist&logoColor=white)  
+&nbsp; ![OllyDbg](https://img.shields.io/badge/OllyDbg-800000?style=for-the-badge&logo=windows&logoColor=white)  
+&nbsp; ![IDA Pro](https://img.shields.io/badge/IDA_Pro-333333?style=for-the-badge&logo=hexo&logoColor=red)  
+&nbsp; ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=yellow)  
+&nbsp; ![Proxychains](https://img.shields.io/badge/Proxychains-2C2C2C?style=for-the-badge&logo=torproject&logoColor=purple)  
+&nbsp; ![DirBuster](https://img.shields.io/badge/DirBuster-007ACC?style=for-the-badge&logo=apache&logoColor=white)  
+&nbsp; ![WhatWeb](https://img.shields.io/badge/WhatWeb-121212?style=for-the-badge&logo=firefox&logoColor=orange)  
+&nbsp; ![WafW00f](https://img.shields.io/badge/WafW00f-6A1B9A?style=for-the-badge&logo=cloudflare&logoColor=white)  
+&nbsp; ![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)  
+&nbsp; ![Netcat](https://img.shields.io/badge/Netcat-004D40?style=for-the-badge&logo=socketdotio&logoColor=white)  
+
 
 ---
 
