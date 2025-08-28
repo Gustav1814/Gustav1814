@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨‍💻 **Zeerak Shahzad**  
+
+ # **Zeerak Shahzad**  
 🎓 Cybersecurity Undergraduate | FAST-NUCES (Class of Fall 2026)  
 🔍 Passionate about **Offensive Security, Red Teaming, Malware Simulation, and Reverse Engineering**  
 📈 Long-term goal: Growing into a **CISO (Chief Information Security Officer)** by combining technical depth with strategic leadership  
